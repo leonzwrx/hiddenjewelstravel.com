@@ -1,0 +1,9 @@
+# Hugo output directories
+public/
+resources/
+hugo_stats.json
+.hugo_build.lock
+
+# Local dev & system files
+.DS_Store
+Thumbs.db
