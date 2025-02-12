@@ -7,3 +7,8 @@ hugo_stats.json
 # Local dev & system files
 .DS_Store
 Thumbs.db
+
+#ignore logs and other private stuff
+*.log
+.env
+*.sh
