@@ -1,8 +1,21 @@
 ---
 title: "About"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
-featured_image: '/images/Victor_Hugo-Hunchback.jpg'
+description: "Travel is the only thing you buy that makes you richer – Anonymous."
+featured_image: '/images/siteimages/Screenshot 2025-01-22 170113 copy.jpg'
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+{{< figure src="/images/siteimages/julie.jpg" title="Travel is my passion" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+
+At _Hidden Jewels Travel_, we believe that the best adventures are the ones waiting to be discovered. Travel isn’t just about getting from one place to another—it’s about experiencing the world in ways that enrich the soul, spark curiosity, and create lasting memories.
+
+As the saying goes, “Travel is the only thing you buy that makes you richer.” That’s why we specialize in curating unforgettable journeys that go beyond the ordinary. From breathtaking hidden gems to iconic must-see destinations, we design travel experiences that inspire, surprise, and leave a lasting impact.
+
+Whether you’re seeking a relaxing getaway, an adrenaline-filled adventure, or a deep cultural immersion, Hidden Jewels Travel is here to craft the perfect trip for you. Let’s turn your travel dreams into reality—one hidden jewel at a time.
+
+🌍✈️ Explore. Experience. Enrich.ravel opens minds, broadens horizons, and creates unforgettable experiences. It’s not just about reaching a destination; it’s about discovering new cultures, making connections, and growing as a person. Your travel booking business is not just selling trips—it’s helping people create lifelong memories.
+***
+
+We can help you with the following services:
+
+- flights
+- transportation

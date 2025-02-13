@@ -22,7 +22,7 @@ mainSections = ["none"]
 text_color = "grey"
 author = "Julie" # default author, override via `author` in a posts front matter
 favicon = ""
-site_logo = ""
+site_logo = "images/hjt4.svg"
 TIMEZONE = "America/Denver"
 description = "Your favorite travel planner"
 # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
