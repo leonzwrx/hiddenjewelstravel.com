@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: "Travel is the only thing you buy that makes you richer – Anonymous."
-featured_image: '/images/siteimages/Screenshot 2025-01-22 170113 copy.jpg'
+featured_image: '/images/siteimages/pexels-therato-1933239.jpg'
 ---
 {{< figure src="/images/siteimages/julie.jpg" title="Travel is my passion" >}}
 
