@@ -40,18 +40,18 @@ networks = [
   "facebook"
 ]
 
-[params.ananke.social.follow]
-networks = [
-  "facebook",
-  "instagram"
-]
-
-[params.ananke.social.facebook]
-username = "hiddenjewelstravel"
-# profilelink = "https://www.facebook.com/hiddenjewelstravel"
-
-[params.ananke.social.instagram]
-username = "hiddenjewelstravel" # Replace with your Instagram username
+#[params.ananke.social.follow]
+#networks = [
+#  "facebook",
+#  "instagram"
+#]
+#
+#[params.ananke.social.facebook]
+#username = "hiddenjewelstravel"
+## profilelink = "https://www.facebook.com/hiddenjewelstravel"
+#
+#[params.ananke.social.instagram]
+#username = "hiddenjewelstravel" # Replace with your Instagram username
 
 [[menu.main]]
   name = "Home"
