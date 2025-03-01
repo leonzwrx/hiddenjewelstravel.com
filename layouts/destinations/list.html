@@ -1,0 +1,85 @@
+{{ define "main" }}
+<div class="container">
+    <h1>{{ .Title }}</h1>
+    <p class="description">{{ .Content }}</p>
+
+    <div class="grid">
+        {{ range .Pages }}
+        <div class="destination-card">
+            <a href="{{ .RelPermalink }}">
+                <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
+                <h2>{{ .Title }}</h2>
+                <p>{{ .Params.description }}</p>
+            </a>
+        </div>
+        {{ end }}
+    </div>
+</div>
+
+<style>
+    .container {
+        text-align: center;
+        max-width: 800px;
+        margin: 0 auto;
+    }
+
+    .description {
+        font-size: 1.2em;
+        color: #444;
+        margin-bottom: 20px;
+    }
+
+    .grid { 
+        display: flex; 
+        flex-wrap: wrap; 
+        gap: 20px; 
+        justify-content: center; 
+        padding: 20px;
+    }
+    
+    .destination-card { 
+        width: 300px; 
+        text-align: center; 
+        padding: 15px; 
+        background: white; 
+        border-radius: 10px; 
+        box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+        transition: transform 0.2s ease-in-out;
+    }
+    
+    .destination-card:hover {
+        transform: scale(1.05);
+    }
+
+    .destination-card img { 
+        width: 100%; 
+        height: auto; 
+        border-radius: 10px; 
+    }
+
+    .destination-card h2 {
+        margin-top: 10px;
+        font-size: 1.2em;
+    }
+
+    .destination-card p {
+        font-size: 0.9em;
+        color: #555;
+    }
+
+    .destination-card a {
+        text-decoration: none;
+        color: #007BFF;
+        font-weight: bold;
+    }
+
+    .destination-card a:hover {
+        color: #0056b3;
+    }
+
+    .destination-card a:visited {
+        color: #0056b3;
+    }
+</style>
+
+{{ end }}

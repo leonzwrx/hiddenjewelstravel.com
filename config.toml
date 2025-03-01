@@ -20,7 +20,7 @@ filename = "sitemap.xml"
 [params]
 mainSections = ["none"]
 text_color = "black"
-author = "Julie" # default author, override via `author` in a posts front matter
+#author = "Julie" # default author, override via `author` in a posts front matter
 favicon = ""
 site_logo = "images/siteimages/hjt_colored.svg"
 TIMEZONE = "America/Denver"
@@ -34,29 +34,40 @@ cover_dimming_class = "bg-dark-blue-60"
 recent_posts_number = 3
 body_classes = "avenir bg-moon-gray"
 
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params.ananke.social.share]
 networks = [
   "email",
   "facebook"
 ]
 
-#[params.ananke.social.follow]
-#networks = [
-#  "facebook",
-#  "instagram"
-#]
-#
-#[params.ananke.social.facebook]
-#username = "hiddenjewelstravel"
-## profilelink = "https://www.facebook.com/hiddenjewelstravel"
-#
-#[params.ananke.social.instagram]
-#username = "hiddenjewelstravel" # Replace with your Instagram username
+[params.ananke.social.follow]
+networks = [
+  "facebook",
+  "instagram"
+]
+
+[params.ananke.social.facebook]
+username = "hiddenjewelstravel"
+profilelink = "https://www.facebook.com/profile.php?id=61573379381442"
+
+[params.ananke.social.instagram]
+username = "travel.hiddenjewels" # Replace with your Instagram username
 
 [[menu.main]]
   name = "Home"
   url = "/"
   weight = 10
+
+[[menu.main]]
+  name = "Destinations"
+  url = "/destinations"
+  weight = 15
 
 [[menu.main]]
   name = "About"

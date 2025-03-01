@@ -7,7 +7,10 @@ type: page
 
 ---
 
-Please use the form below to contact us and we will answer any of your questions!
+Let's start planning your next vacation today!
+
+
+Use the form below to contact us:
 
 {{< form-contact action="https://formspree.io/f/xyzkdjqd"  >}}
 

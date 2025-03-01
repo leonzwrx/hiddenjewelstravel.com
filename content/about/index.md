@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: "Travel is the only thing you buy that makes you richer – Anonymous."
+description: ' "Travel is the only thing you buy that makes you richer” – Anonymous.'
 featured_image: '/images/siteimages/pexels-therato-1933239.jpg'
 ---
 {{< figure src="/images/siteimages/julie.jpg" title="Travel is my passion" >}}
@@ -12,10 +12,14 @@ As the saying goes, “Travel is the only thing you buy that makes you richer.�
 
 Whether you’re seeking a relaxing getaway, an adrenaline-filled adventure, or a deep cultural immersion, Hidden Jewels Travel is here to craft the perfect trip for you. Let’s turn your travel dreams into reality—one hidden jewel at a time.
 
-🌍✈️ Explore. Experience. Enrich.ravel opens minds, broadens horizons, and creates unforgettable experiences. It’s not just about reaching a destination; it’s about discovering new cultures, making connections, and growing as a person. Your travel booking business is not just selling trips—it’s helping people create lifelong memories.
-***
+
 
 We can help you with the following services:
 
-- flights
-- transportation
+- Flights
+- Accommodations
+- Transportation
+- Hotel transfers
+- Excursions
+- Tours
+- Customized itineraries
