@@ -67,12 +67,12 @@ username = "travel.hiddenjewels" # Replace with your Instagram username
 [[menu.main]]
   name = "Destinations"
   url = "/destinations"
-  weight = 15
+  weight = 20 
 
 [[menu.main]]
   name = "About"
   url = "/about"
-  weight = 20
+  weight = 15
 
 [[menu.main]]
   name = "Contact"
