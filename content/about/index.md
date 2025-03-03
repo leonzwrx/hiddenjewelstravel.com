@@ -23,4 +23,4 @@ We can help you with the following services:
 - Excursions
 - Tours
 - Customized itineraries
-- Trip Insurance
+- Trip insurance
