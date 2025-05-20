@@ -24,14 +24,14 @@ Dive into our website to uncover incredible destinations that will spark your wa
   text-align: center;
   padding: 2rem;
   margin: 3rem auto;
-  background: linear-gradient(135deg, #f5f8ff 0%, #e6edff 100%); /* Lighter blue gradient */
+  background: linear-gradient(135deg, #f5f8ff 0%, #e6edff 100%);
   border-radius: 20px;
-  border: 3px solid #b3c6ff; /* Medium blue border */
+  border: 3px solid #b3c6ff;
   max-width: 600px;
-  box-shadow: 0 8px 32px rgba(25, 103, 210, 0.1); /* Darker blue shadow */
+  box-shadow: 0 8px 32px rgba(25, 103, 210, 0.1);
 ">
   <h3 style="
-    color: #1967d2; /* Google's darker blue */
+    color: #1967d2;
     font-size: 1.8rem;
     margin: 0 0 1rem 0;
     font-family: 'Arial Rounded MT Bold', system-ui;
@@ -51,20 +51,20 @@ Dive into our website to uncover incredible destinations that will spark your wa
      target="_blank"
      style="
        display: inline-block;
-       padding: 1rem 2rem;
-       background: #1967d2; /* Darker blue */
-       color: white !important;
-       text-decoration: none;
-       border-radius: 50px;
-       font-weight: bold;
        transition: all 0.3s;
-       border: 2px solid #4d8bf0; /* Brighter blue accent */
-       box-shadow: 0 4px 15px rgba(25,103,210,0.2);
        margin-bottom: 1.5rem;
+       border-radius: 12px; /* Match your image's style */
+       box-shadow: 0 4px 15px rgba(25,103,210,0.2);
      "
      onmouseover="this.style.transform='translateY(-2px)';this.style.boxShadow='0 6px 20px rgba(25,103,210,0.3)'"
      onmouseout="this.style.transform='none';this.style.boxShadow='0 4px 15px rgba(25,103,210,0.2)'">
-    ★ Leave a Review
+    <img src="/images/siteimages/g_review.jpg" 
+         alt="Leave Google Review" 
+         style="
+           width: 220px; /* Adjust based on your image aspect ratio */
+           display: block;
+           border-radius: 12px; /* Optional: if your image has rounded corners */
+         ">
   </a>
 
   <div style="margin: 1.5rem 0;">
@@ -72,7 +72,7 @@ Dive into our website to uncover incredible destinations that will spark your wa
          alt="Google Review QR Code" 
          style="
            width: 160px;
-           border: 3px solid #b3c6ff; /* Matches container border */
+           border: 3px solid #b3c6ff;
            border-radius: 12px;
            padding: 8px;
            background: white;
